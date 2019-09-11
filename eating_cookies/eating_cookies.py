@@ -4,9 +4,11 @@ import sys
 
 # The cache parameter is here for if you want to implement
 # a solution that is more efficient than the naive 
-# recursive solution
+# recursive solution 
 
-# Establish a base case 
+# Establish a base case
+# What is my base case? 
+# If not at base case, how do I arrive at one? 
 
 def eating_cookies(n, cache=None):
   pass
